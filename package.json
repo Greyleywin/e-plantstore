@@ -2,7 +2,7 @@
   "name": "fp-plantshopping-appreact",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/greyleywin.github.io/FP-PlantShopping-AppReact",
+  "homepage": "https://github.com/greyleywin.github.io/e-plantstore",
   "type": "module",
   "scripts": {
     "dev": "vite",
